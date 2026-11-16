@@ -1,0 +1,19 @@
+# Local datasets and downloaded files
+/data/
+
+# Python virtual environment
+/.venv/
+
+# Trained model files
+/models/
+*.pt
+*.pth
+
+# Python/Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local secrets and OS/editor clutter
+.env
+.DS_Store
